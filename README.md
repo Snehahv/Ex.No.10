@@ -1,4 +1,4 @@
-[# Exno.10-Prompt-Engg
+# Exno.10-Prompt-Engg
 ## Register no:212222040157
 # Aim:
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
